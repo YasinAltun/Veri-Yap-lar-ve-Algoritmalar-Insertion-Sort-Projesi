@@ -19,8 +19,7 @@
 Big O gösterimi : O(n^2)
 
 
-### 3.)Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+### 3.)Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Dizi sıralandıktan sonra 18 sayısı dizinin ortalarına denk geleceği için Average Case kapsamına girer.
 
