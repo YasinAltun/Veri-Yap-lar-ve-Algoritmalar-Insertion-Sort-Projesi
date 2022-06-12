@@ -31,4 +31,6 @@ Dizi sıralandıktan sonra 18 sayısı dizinin ortalarına denk geleceği için 
 4. [2,3,4,5,6,9,8,15,7] n-4
 
  **https://app.patika.dev/yasinnaltunn**
+ 
+ 
  **www.patika.dev**
