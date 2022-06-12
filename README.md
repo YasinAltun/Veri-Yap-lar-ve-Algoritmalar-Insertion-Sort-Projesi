@@ -1,8 +1,8 @@
-#Veri Yapıları ve Algoritmalar Insertion Sort Projesi
+# Veri Yapıları ve Algoritmalar Insertion Sort Projesi
 
-##Insertion Sort Projesi
+## Insertion Sort Projesi
 
-##Proje 1
+## Proje 1
 
 [22,27,16,2,18,6] -> Insertion Sort
 
